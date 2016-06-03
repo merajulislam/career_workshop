@@ -2,3 +2,4 @@ career guideline on web technology
 
 1. front end development.
 2. learning javascript.
+3. develop a simple stopwatch programme within a week.
