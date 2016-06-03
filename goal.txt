@@ -1,0 +1,4 @@
+career guideline on web technology
+
+1. front end development.
+2. learning javascript.
